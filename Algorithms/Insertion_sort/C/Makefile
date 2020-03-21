@@ -7,10 +7,10 @@ ODIR=bin
 
 #LIBS=-lm
 
-# _DEPS = queue.h
-# DEPS = $(patsubst %,%,$(_DEPS))
+_DEPS = sort.h
+DEPS = $(patsubst %,%,$(_DEPS))
 
-_OBJ = main.o 
+_OBJ = main.o sort.o 
 OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
 
