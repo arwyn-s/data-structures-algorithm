@@ -15,4 +15,4 @@
 ## Analysis.
 
 1. Depends on input, best running time when array is sorted.
-2. average and worst case : O(n<sup>2</sup>)
+2. average and worst case : $\theta$(n<sup>2</sup>)
