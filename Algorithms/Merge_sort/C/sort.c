@@ -72,7 +72,7 @@ void merge(int* arr, int p, int q, int r) {
 // Function to print array to stdout.
 void print_array(int* arr, int p, int r) {
     int i=p;
-    while(i< r){
+    while(i<=r){
         printf("%d ", arr[i++]);
     }
     printf("\n");

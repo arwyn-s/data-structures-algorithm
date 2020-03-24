@@ -1,6 +1,6 @@
 /********
  *  
- *  INSERTION SORT. 
+ *  MERGE SORT. 
  *  given a sequence of N numbers, insertion sort will sort the numbers with worst case running time of order O(n^2).
  * 
  * *******/
